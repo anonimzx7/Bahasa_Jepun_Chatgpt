@@ -6,7 +6,7 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.6.0
+  sdk: ^3.7.0-209.1.beta
 
 dependencies:
   flutter:
@@ -27,4 +27,4 @@ flutter:
 
   uses-material-design: true
   assets:
-    - assets\database\data.db
+    - assets/database/data.db
